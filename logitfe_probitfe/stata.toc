@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p logitfe_probitfe Bias corrections for probit and logit models with two-way fixed effects Use logitfe And probitfe With STATA 18
