@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'logitfe_probitfe': Bias corrections for probit and logit models with two-way fixed effects Use logitfe And probitfe With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f logitfe.ado
+f logitfe.sthlp
+f probitfe.ado
+f probitfe.sthlp
