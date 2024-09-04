@@ -3,6 +3,8 @@ Analytical and Jackknife bias corrections for fixed effects estimators of panel 
 
 Bias corrections for probit and logit models with two-way fixed effects Use logitfe And probitfe With STATA 18
 
+https://www.youtube.com/watch?v=QL9wvqxfRFE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
